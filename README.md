@@ -1,5 +1,5 @@
-# Bank-Dataset-Classification
-Binary Classification with a Bank Dataset  
-Goal is to predict whether a client will subscribe to a bank term deposit.
+# 은행 데이터 세트를 사용한 이진 분류
+은행 데이터셋을 활용한 이진 분류  
+목표는 고객이 은행 정기예금에 가입할지 여부를 예측하는 것 입니다.
 
 ### final test score: 0.91057
